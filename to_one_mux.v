@@ -1,0 +1,20 @@
+
+
+
+module to_one_mux (a,b,s0,c);
+
+	input a;
+	input b,s0;
+	output c;
+	reg c;
+	//assign c = s0&b | ~s0&a;
+	
+	always @(a,b,s0)
+    begin
+        if(s0 == 0) 
+            c = a;  //when select signal to the mux is low
+        else
+            c = b;  //when select signal to the mux is high
+    end
+	
+endmodule 
