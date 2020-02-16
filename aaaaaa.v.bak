@@ -1,0 +1,36 @@
+
+module aaaaaa(state,inp,out);
+
+output reg [1:0] state = 2'b00;
+input inp=0;
+//reg s,state;
+output reg out;
+always@(inp)
+begin
+case (state)
+2'b00: begin
+if(inp==1) begin out=0;state=2'b01; end
+if(inp==0)
+out=0;
+end
+2'b01: begin
+if(inp)
+out=0;
+if(inp==0)
+begin out=0;state=2'b10; end
+end
+2'b10: begin
+if(inp==1)
+begin out=0;state=2'b11; end
+if(inp==0)
+begin out=0;state = 2'b00; end
+end
+2'b11: begin
+if(inp==1)
+begin out=1;state=2'b01; end
+if(inp==0)
+begin out=0;state = 2'b10; end
+end
+endcase
+end
+endmodule

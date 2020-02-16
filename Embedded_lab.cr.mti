@@ -1,0 +1,22 @@
+E:/EDID_LAB/booth.v {1 {vlog -work work -stats=none E:/EDID_LAB/booth.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module booth
+
+Top level modules:
+	booth
+
+} {} {}} E:/EDID_LAB/ALU_testbench.v {1 {vlog -work work -stats=none E:/EDID_LAB/ALU_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} E:/EDID_LAB/ALU.v {1 {vlog -work work -stats=none E:/EDID_LAB/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}

@@ -1,0 +1,35 @@
+module FSM(s,state,out);
+
+input  s,state;
+//reg s,state;
+output out;
+always@(s)
+begin
+if(s == 1  && state == 0)
+out=0,state=1;
+else if(s==0 && state == 0)
+out=0,state=0;
+
+else if(s == 1 && state == 1)
+out=0;
+state=1;
+else if(s==0 && state == 1)
+out=0;
+state=2;
+
+else if(s == 1 && state == 2)
+out=0;
+state=3;
+else if(s==0 && state == 2)
+out=0;
+state=0;
+
+else if(s == 1 && state == 3)
+out=1;
+state=1;
+else if(s==0 && state == 3)
+out=0;
+state=2;
+end
+endmodule
+

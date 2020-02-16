@@ -1,0 +1,312 @@
+E:/EDID_LAB/practice.v {1 {vlog -work work -stats=none E:/EDID_LAB/practice.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module practice
+
+Top level modules:
+	practice
+
+} {} {}} E:/EDID_LAB/ripple_adder.v {1 {vlog -work work -stats=none E:/EDID_LAB/ripple_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module ripple_adder
+
+Top level modules:
+	ripple_adder
+
+} {} {}} E:/EDID_LAB/2_1_mux.v {0 {vlog -work work -stats=none E:/EDID_LAB/2_1_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+** Error: (vlog-13069) E:/EDID_LAB/2_1_mux.v(4): near "21": syntax error, unexpected INTEGER NUMBER.
+
+} {3.0 4.0} {}} E:/EDID_LAB/test_FSM.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_FSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_FSM
+
+Top level modules:
+	test_FSM
+
+} {} {}} E:/EDID_LAB/milimoore.v {2 {vlog -work work -stats=none E:/EDID_LAB/milimoore.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module milimoore
+** Warning: E:/EDID_LAB/milimoore.v(12): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	milimoore
+
+} {} {}} E:/EDID_LAB/aaaaaa.v {1 {vlog -work work -stats=none E:/EDID_LAB/aaaaaa.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module aaaaaa
+
+Top level modules:
+	aaaaaa
+
+} {} {}} E:/EDID_LAB/lab_testringcounter.v {1 {vlog -work work -stats=none E:/EDID_LAB/lab_testringcounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module lab_testringcounter
+
+Top level modules:
+	lab_testringcounter
+
+} {} {}} E:/EDID_LAB/test_dflipflop.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_dflipflop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_dflipflop
+
+Top level modules:
+	test_dflipflop
+
+} {} {}} E:/EDID_LAB/D_flipflop.v {1 {vlog -work work -stats=none E:/EDID_LAB/D_flipflop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} E:/EDID_LAB/test_xor.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_xor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_xor
+
+Top level modules:
+	test_xor
+
+} {} {}} E:/EDID_LAB/test_ring_counter2.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_ring_counter2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_ring_counter2
+
+Top level modules:
+	test_ring_counter2
+
+} {} {}} E:/EDID_LAB/not_gate_0.v {1 {vlog -work work -stats=none E:/EDID_LAB/not_gate_0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+
+} {} {}} E:/EDID_LAB/or_gate.v {1 {vlog -work work -stats=none E:/EDID_LAB/or_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} E:/EDID_LAB/xor_gate.v {1 {vlog -work work -stats=none E:/EDID_LAB/xor_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} E:/EDID_LAB/test_full_adder.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_full_adder
+
+Top level modules:
+	test_full_adder
+
+} {} {}} E:/EDID_LAB/priority_encoder.v {1 {vlog -work work -stats=none E:/EDID_LAB/priority_encoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module priority_encoder
+
+Top level modules:
+	priority_encoder
+
+} {} {}} E:/EDID_LAB/test_ring_counter(2).v {0 {vlog -work work -stats=none E:/EDID_LAB/test_ring_counter(2).v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_ring_counter
+** Error: (vlog-13069) E:/EDID_LAB/test_ring_counter(2).v(8): near "2": syntax error, unexpected INTEGER NUMBER, expecting ')'.
+
+} {4.0 5.0} {}} E:/EDID_LAB/test_2_1_mux.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_2_1_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_2_1_mux
+
+Top level modules:
+	test_2_1_mux
+
+} {} {}} E:/EDID_LAB/full_adder.v {1 {vlog -work work -stats=none E:/EDID_LAB/full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} E:/EDID_LAB/test_and.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_and.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_and
+
+Top level modules:
+	test_and
+
+} {} {}} E:/EDID_LAB/practice_test.v {1 {vlog -work work -stats=none E:/EDID_LAB/practice_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module practice_test
+
+Top level modules:
+	practice_test
+
+} {} {}} E:/EDID_LAB/and_gate.v {1 {vlog -work work -stats=none E:/EDID_LAB/and_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} E:/EDID_LAB/seven_segment.v {1 {vlog -work work -stats=none E:/EDID_LAB/seven_segment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module seven_segment
+
+Top level modules:
+	seven_segment
+
+} {} {}} E:/EDID_LAB/test_4_1_mux.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_4_1_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_4_1_mux
+
+Top level modules:
+	test_4_1_mux
+
+} {} {}} E:/EDID_LAB/test_milimoore.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_milimoore.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_milimoore
+
+Top level modules:
+	test_milimoore
+
+} {} {}} E:/EDID_LAB/to_one_mux.v {1 {vlog -work work -stats=none E:/EDID_LAB/to_one_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module to_one_mux
+
+Top level modules:
+	to_one_mux
+
+} {} {}} E:/EDID_LAB/lab_ring_counter.v {1 {vlog -work work -stats=none E:/EDID_LAB/lab_ring_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module lab_ring_counter
+
+Top level modules:
+	lab_ring_counter
+
+} {} {}} E:/EDID_LAB/FSM.v {0 {vlog -work work -stats=none E:/EDID_LAB/FSM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module FSM
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(9): near ",": syntax error, unexpected ',', expecting ';'.
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(11): near ",": syntax error, unexpected ',', expecting ';'.
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(16): near "else": syntax error, unexpected else.
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(20): near "else": syntax error, unexpected else.
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(23): near "else": syntax error, unexpected else.
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(27): near "else": syntax error, unexpected else.
+** Error: (vlog-13069) E:/EDID_LAB/FSM.v(30): near "else": syntax error, unexpected else.
+
+} {4.0 11.0} {}} E:/EDID_LAB/four_one_mux.v {1 {vlog -work work -stats=none E:/EDID_LAB/four_one_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module four_one_mux
+
+Top level modules:
+	four_one_mux
+
+} {} {}} E:/EDID_LAB/tb.v {1 {vlog -work work -stats=none E:/EDID_LAB/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} E:/EDID_LAB/test_ring_counter.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_ring_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_ring_counter
+
+Top level modules:
+	test_ring_counter
+
+} {} {}} E:/EDID_LAB/counter_f2.v {1 {vlog -work work -stats=none E:/EDID_LAB/counter_f2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module counter_f2
+
+Top level modules:
+	counter_f2
+
+} {} {}} E:/EDID_LAB/ring_counter.v {1 {vlog -work work -stats=none E:/EDID_LAB/ring_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module ring_counter
+
+Top level modules:
+	ring_counter
+
+} {} {}} E:/EDID_LAB/test_pq_encoder.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_pq_encoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_pq_encoder
+
+Top level modules:
+	test_pq_encoder
+
+} {} {}} E:/EDID_LAB/counter.v {1 {vlog -work work -stats=none E:/EDID_LAB/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} E:/EDID_LAB/test_or.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_or.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_or
+
+Top level modules:
+	test_or
+
+} {} {}} E:/EDID_LAB/test_not.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_not.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_not
+
+Top level modules:
+	test_not
+
+} {} {}} E:/EDID_LAB/Frequency_divider.v {1 {vlog -work work -stats=none E:/EDID_LAB/Frequency_divider.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module Frequency_divider
+
+Top level modules:
+	Frequency_divider
+
+} {} {}} E:/EDID_LAB/not_gate.v {1 {vlog -work work -stats=none E:/EDID_LAB/not_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module not_gate
+
+Top level modules:
+	not_gate
+
+} {} {}} E:/EDID_LAB/ring_counter2.v {1 {vlog -work work -stats=none E:/EDID_LAB/ring_counter2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module ring_counter2
+
+Top level modules:
+	ring_counter2
+
+} {} {}} E:/EDID_LAB/test_half_adder.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_half_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_half_adder
+
+Top level modules:
+	test_half_adder
+
+} {} {}} E:/EDID_LAB/test_fd.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_fd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_fd
+
+Top level modules:
+	test_fd
+
+} {} {}} E:/EDID_LAB/test_ripple_adder.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_ripple_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_ripple_adder
+
+Top level modules:
+	test_ripple_adder
+
+} {} {}} E:/EDID_LAB/half_adder.v {1 {vlog -work work -stats=none E:/EDID_LAB/half_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} E:/EDID_LAB/ring_counter(2).v {0 vlog\ -work\ work\ -stats=none\ E:/EDID_LAB/ring_counter(2).v\nModel\ Technology\ ModelSim\ -\ Intel\ FPGA\ Edition\ vlog\ 10.5c\ Compiler\ 2017.01\ Jan\ 23\ 2017\n--\ Compiling\ module\ ring_counter2\n**\ Error:\ (vlog-13069)\ E:/EDID_LAB/ring_counter(2).v(13):\ near\ \"\;\":\ syntax\ error,\ unexpected\ '\;',\ expecting\ ','\ or\ '\}'.\n**\ Error:\ (vlog-13069)\ E:/EDID_LAB/ring_counter(2).v(15):\ near\ \"\}\":\ syntax\ error,\ unexpected\ '\}'.\n\n {4.0 6.0} {}} E:/EDID_LAB/test_seven_segment.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_seven_segment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_seven_segment
+
+Top level modules:
+	test_seven_segment
+
+} {} {}}
