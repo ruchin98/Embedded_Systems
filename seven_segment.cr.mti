@@ -1,0 +1,15 @@
+E:/EDID_LAB/seven_segment.v {1 {vlog -work work -stats=none E:/EDID_LAB/seven_segment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module seven_segment
+
+Top level modules:
+	seven_segment
+
+} {} {}} E:/EDID_LAB/test_seven_segment.v {1 {vlog -work work -stats=none E:/EDID_LAB/test_seven_segment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module test_seven_segment
+
+Top level modules:
+	test_seven_segment
+
+} {} {}}

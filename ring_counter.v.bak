@@ -1,0 +1,21 @@
+
+
+
+
+module ring_counter (clk,inp,out);
+
+	input clk;
+	input  inp;
+	reg x;
+	output reg [3:0] out;
+	always@(posedge clk)
+	begin
+		if(inp)
+			out <= 4'b1000;	
+		else
+			x = out[3];
+			out <= out<<1;
+			out[0] <= x;
+	end
+	
+endmodule 
